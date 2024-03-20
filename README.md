@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Volodymyr</h1>
 <h3 align="center">A software engineering student from Ukraine</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=volodymyrm27&label=Profile%20views&color=0e75b6&style=flat" alt="volodymyrm27" /> </p>
-
-
 My best projects:
 
 💻  <a href="https://github.com/VolodymyrM27/Client_Connect" target="blank"> Client Connect </a>: A personalized service system for businesses to customize offerings based on user-created templates. Enhanced customer satisfaction leads to improved business profitability and reputation.
@@ -24,7 +21,7 @@ My best projects:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/volodymyr-motrechko/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/volodymyr-motrechko/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/volodymyr-motrechko/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/volodymyr-motrechko/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
