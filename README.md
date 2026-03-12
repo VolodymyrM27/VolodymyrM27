@@ -6,7 +6,6 @@
 
 <div align="center">
 
-<!-- HEADER — sharp slice, green-to-cyan gradient on dark -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%" />
 
 <br>
@@ -15,11 +14,10 @@
 
 <br><br>
 
-<!-- SOCIAL — flat-square badges, dark with green accent -->
 <a href="https://linkedin.com/in/volodymyr-motrechko"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=22c55e" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:volodymyrmotrechko@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=22c55e" alt="Email" /></a>&nbsp;
-<a href="https://github.com/VolodymyrM27/persanal-blog-3"><img src="https://img.shields.io/badge/Portfolio_(CLI)-0d1117?style=flat-square&logo=windowsterminal&logoColor=22c55e" alt="Portfolio" /></a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=VolodymyrM27&style=flat-square&color=0d1117&label=views" alt="Profile Views" />
+<a href="https://motrechko.dev"><img src="https://img.shields.io/badge/motrechko.dev-0d1117?style=flat-square&logo=windowsterminal&logoColor=22c55e" alt="Portfolio" /></a>&nbsp;
+<a href="https://motrechko.dev"><img src="https://komarev.com/ghpvc/?username=VolodymyrM27&style=flat-square&color=0d1117&label=views" alt="Profile Views" /></a>
 
 </div>
 
@@ -41,27 +39,38 @@
            Data      PostgreSQL · MongoDB · Redis
            Base      Warsaw, Poland
            From      Ukraine
-           Shell     zsh + neovim + tmux
            Uptime    3 years building systems at scale
 ```
 
 <details>
-<summary>&nbsp;<b><code>$ cat career.log</code></b></summary>
+<summary>&nbsp;<b>Experience</b></summary>
 
 <br>
 
-> **Now** — Embedded in a Fortune 500 US retailer's Merchandise Planning org via [Zoolatech](https://zoolatech.com). Building large-scale ETL pipelines and contributing to an ecosystem of 7+ interconnected planning applications that manage **$20B+** in annual merchandise across full-price and off-price channels. Platform serves 60+ merchant planners whose output feeds directly into **public investor reporting**. Driving GitLab-to-GitHub migration for the entire planning capability.
+**Software Engineer @ Zoolatech** — *Dec 2025 – Present* · Warsaw, Poland
 
-> **Previously** — [Ajax Systems](https://ajax.systems), world's fastest-growing security systems company. Architected and maintained a high-load distributed cloud platform for IoT security devices serving **millions of users worldwide**. Led end-to-end migration of a critical module from Akka/Java monolith to Kotlin/Spring Boot microservice — authored the ADR, built the migration foundation, and managed a team of 5+ engineers. Designed fault-tolerant messaging pipelines for hub-to-cloud communication with batching, reassembly, and error recovery.
+Embedded in a Fortune 500 US retailer's Merchandise Planning org. Building large-scale ETL pipelines and contributing to an ecosystem of 7+ interconnected planning applications that manage **$20B+** in annual merchandise. Platform serves 60+ merchant planners whose output feeds directly into **public investor reporting**. Driving GitLab-to-GitHub migration for the entire planning capability.
 
-> **Education** — B.Sc. Software Engineering, Kharkiv National University of Radioelectronics (2020–2024)
+`Java 21` `Python` `Spring Boot` `Pandas` `PostgreSQL` `Amazon S3` `GCS` `Terraform` `Apache Airflow` `Docker` `Kubernetes` `Confluent Cloud`
+
+---
+
+**Software Engineer @ Ajax Systems** — *Apr 2023 – Dec 2025* · Kyiv, Ukraine
+
+Architected and maintained a high-load distributed cloud platform for IoT security devices serving **millions of users worldwide**. Led end-to-end migration of a critical module from Akka/Java monolith to Kotlin/Spring Boot microservice — authored the ADR, built the migration foundation, and managed a team of 5+ engineers. Designed fault-tolerant messaging pipelines for hub-to-cloud communication.
+
+`Java 21` `Kotlin` `Spring Boot` `Apache Kafka` `gRPC` `NATS` `MongoDB` `Redis` `AWS` `Docker` `Akka` `Netty`
+
+---
+
+**Education** — B.Sc. Software Engineering, Kharkiv National University of Radioelectronics (2020–2024)
 
 </details>
 
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 02 // STACK — organized by domain, for-the-badge style           -->
+<!-- 02 // STACK                                                       -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <h3><code>02</code>&nbsp; STACK</h3>
@@ -158,93 +167,25 @@
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 03 // METRICS — bento grid layout, green-on-dark theme           -->
+<!-- 03 // METRICS — compact, avoids empty-looking graphs              -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <h3><code>03</code>&nbsp; METRICS</h3>
 
 <div align="center">
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=VolodymyrM27&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=06b6d4&text_color=c9d1d9&ring_color=22c55e&rank_icon=percentile" width="100%" alt="GitHub Stats" />
-</td>
-<td width="50%">
-<img src="https://streak-stats.demolab.com?user=VolodymyrM27&hide_border=true&background=0D1117&ring=22C55E&fire=F59E0B&currStreakLabel=22C55E&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6B7280" width="100%" alt="Streak Stats" />
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VolodymyrM27&bg_color=0d1117&color=22c55e&line=06b6d4&point=22c55e&area=true&area_color=134e2a&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph" />
-</td>
-</tr>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VolodymyrM27&layout=compact&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=c9d1d9&langs_count=8" width="100%" alt="Top Languages" />
-</td>
-<td width="50%">
 
-```text
- SYSTEM OVERVIEW
- ─────────────────────────
- Experience    3+ years
- Domain        Distributed Systems
- Scale         Millions of users
- Arch          Microservices + DDD
- Industries    IoT · Retail · Planning
- Certs         Spring Boot · Reactor
-               Mockito · EPAM Java
-```
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VolodymyrM27&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=06b6d4&text_color=c9d1d9&ring_color=22c55e&rank_icon=percentile" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VolodymyrM27&layout=compact&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 
-</td>
-</tr>
-</table>
 </div>
 
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 04 // PROJECTS — pinned repo cards, green theme                  -->
+<!-- 04 // CONNECT                                                     -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<h3><code>04</code>&nbsp; PROJECTS</h3>
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<a href="https://github.com/VolodymyrM27/Client_Connect">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VolodymyrM27&repo=Client_Connect&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=06b6d4&text_color=c9d1d9" width="100%" alt="Client Connect" />
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/VolodymyrM27/HappyAnimals">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VolodymyrM27&repo=HappyAnimals&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=06b6d4&text_color=c9d1d9" width="100%" alt="Happy Animals" />
-</a>
-</td>
-</tr>
-</table>
-</div>
-
-<details>
-<summary>&nbsp;<b><code>$ ls projects/ -la</code></b></summary>
-<br>
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **Client Connect** | Personalized service system with IoT integration. Real-time communication via HiveMQ & WebSocket. | `Java 17` `Spring Boot 3` `HiveMQ` `React 18` `SwiftUI` `ESP32` |
-| **Happy Animals** | Animal management system with IoT environmental monitoring. REST API with JWT auth & real-time sensor data. | `Java 17` `Spring Boot 2` `Spring Security` `React 16` `ESP32` |
-| **Interactive Portfolio** | CLI-style portfolio website — the one you might be looking at right now. Terminal commands, dual-view system, ASCII mascots. | `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` |
-
-</details>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 05 // CONNECT                                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<h3><code>05</code>&nbsp; CONNECT</h3>
+<h3><code>04</code>&nbsp; CONNECT</h3>
 
 <div align="center">
 
@@ -262,60 +203,14 @@
  │                                                  │
  │   Let's build something that scales.             │
  │                                                  │
- │   $ echo $CONTACT | mail                         │
- │                                                  │
  └──────────────────────────────────────────────────┘
 ```
 
 </div>
 
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- SNAKE CONTRIBUTION GRAPH                                          -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VolodymyrM27/VolodymyrM27/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VolodymyrM27/VolodymyrM27/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/VolodymyrM27/VolodymyrM27/output/github-snake-dark.svg" width="100%" />
-</picture>
-
 <!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=footer" width="100%" />
 
+<div align="center">
 <sub><code>volodymyr@dev:~$ exit 0</code></sub>
-
-<!--
- ┌─ SETUP NOTES ──────────────────────────────────────────────────────┐
- │                                                                     │
- │  SNAKE ANIMATION                                                    │
- │  To enable the contribution snake, create a GitHub Actions          │
- │  workflow in your profile repo (VolodymyrM27/VolodymyrM27):        │
- │                                                                     │
- │  .github/workflows/snake.yml:                                       │
- │                                                                     │
- │  name: Generate Snake                                               │
- │  on:                                                                │
- │    schedule:                                                        │
- │      - cron: "0 0 * * *"                                           │
- │    workflow_dispatch:                                                │
- │  jobs:                                                              │
- │    build:                                                           │
- │      runs-on: ubuntu-latest                                         │
- │      steps:                                                         │
- │        - uses: Platane/snk@v3                                       │
- │          with:                                                      │
- │            github_user_name: VolodymyrM27                           │
- │            outputs: |                                               │
- │              dist/github-snake.svg                                  │
- │              dist/github-snake-dark.svg?palette=github-dark         │
- │        - uses: crazy-max/ghaction-github-pages@v3.1.0              │
- │          with:                                                      │
- │            target_branch: output                                    │
- │            build_dir: dist                                          │
- │          env:                                                       │
- │            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}                │
- │                                                                     │
- └─────────────────────────────────────────────────────────────────────┘
--->
+</div>
